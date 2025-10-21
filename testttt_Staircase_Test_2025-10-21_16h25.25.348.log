@@ -1,0 +1,385 @@
+19.0347 	DEBUG 	Fullscreen settings ignored as running in pilot mode.
+19.0366 	INFO 	Loaded monitor calibration from ['2025_04_22 13:08']
+19.3233 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x12c4e7850>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x12c4e78b0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x12c7b2710>, multiSample=False, name='window1', numSamples=2, pos=[320.0, 150.0], screen=0, size=array([800, 600]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+19.3234 	EXP 	window1: backgroundImage = ''
+19.3234 	EXP 	window1: backgroundFit = 'none'
+19.3454 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3465 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3475 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3489 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3502 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3509 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3520 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3534 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3538 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3543 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3553 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3564 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3573 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3584 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3593 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3604 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3615 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3622 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3629 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3643 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3649 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3654 	DEBUG 	Uploading Texture Font fontname to graphics card
+19.3679 	DEBUG 	Upload of Texture Font fontname complete
+19.3782 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3797 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3810 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.3814 	DEBUG 	Uploading Texture Font fontname to graphics card
+19.3822 	DEBUG 	Upload of Texture Font fontname complete
+19.3851 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+19.3852 	EXP 	window1: recordFrameIntervals = False
+19.5804 	EXP 	window1: recordFrameIntervals = True
+19.7643 	EXP 	Screen (0) actual frame rate measured at 59.87Hz
+19.7644 	EXP 	window1: recordFrameIntervals = False
+19.7805 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.7812 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.7824 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.7840 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.7859 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.7875 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.7882 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.7895 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.7910 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.7927 	DEBUG 	TextBox2 loaded 1 chars with 0 blanks and 1 valid
+19.7934 	DEBUG 	Uploading Texture Font fontname to graphics card
+19.7988 	DEBUG 	Upload of Texture Font fontname complete
+20.4578 	INFO 	keyboard.Keyboard is using ptb backend.
+20.5824 	INFO 	keyboard.Keyboard is using ptb backend.
+20.7094 	INFO 	keyboard.Keyboard is using ptb backend.
+20.7095 	EXP 	Staircase_Test: status = STARTED
+20.8028 	EXP 	Created Welcome_Text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='Welcome_Text', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text=str(...), units='height', win=Window(...), wrapWidth=1)
+20.8109 	EXP 	Created Stable_Triangle = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-2.0, draggable=True, fillColor=array([ 1., -1., -1.]), fillColorSpace='rgb', fillRGB=array([ 1., -1., -1.]), interpolate=True, lineColor=array([ 1., -1., -1.]), lineColorSpace='rgb', lineRGB=array([ 1., -1., -1.]), lineWidth=1.0, name='Stable_Triangle', opacity=1, ori=0.0, pos=array([-20.,   0.]), size=array([25., 25.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+20.8131 	EXP 	Created Change_Triangle = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-3.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='Change_Triangle', opacity=1, ori=0.0, pos=array([20.,  0.]), size=array([1., 1.]), units='pix', vertices=ndarray(...), win=Window(...), windingRule=None)
+0.0202 	INFO 	Keyboard events cleared
+0.0200 	EXP 	Welcome_Text: autoDraw = True
+1.7989 	DEBUG 	Read excel file with openpyxl: Staircasing Test.xlsx
+1.7997 	EXP 	Imported Staircasing Test.xlsx as conditions, 2 conditions, 10 params
+1.9867 	DEBUG 	Using /Applications/PsychoPy.app/Contents/Resources/lib/python3.10/psychopy/data/staircase.py as origin file
+1.9878 	DEBUG 	Using /Applications/PsychoPy.app/Contents/Resources/lib/python3.10/psychopy/data/staircase.py as origin file
+1.9963 	DATA 	Keypress: space
+2.0044 	INFO 	Keyboard events cleared
+2.0043 	EXP 	Welcome_Text: autoDraw = False
+2.0043 	EXP 	Stable_Triangle: autoDraw = True
+2.0043 	EXP 	Change_Triangle: autoDraw = True
+3.8218 	DATA 	Keypress: left
+3.8269 	INFO 	Keyboard events cleared
+3.8268 	EXP 	Stable_Triangle: autoDraw = False
+3.8268 	EXP 	Change_Triangle: autoDraw = False
+3.8268 	EXP 	Stable_Triangle: autoDraw = True
+3.8268 	EXP 	Change_Triangle: autoDraw = True
+5.0396 	DATA 	Keypress: right
+5.0508 	INFO 	Keyboard events cleared
+5.0506 	EXP 	Stable_Triangle: autoDraw = False
+5.0506 	EXP 	Change_Triangle: autoDraw = False
+5.0506 	EXP 	Stable_Triangle: autoDraw = True
+5.0506 	EXP 	Change_Triangle: autoDraw = True
+6.4396 	DATA 	Keypress: right
+6.4515 	INFO 	Keyboard events cleared
+6.4513 	EXP 	Stable_Triangle: autoDraw = False
+6.4513 	EXP 	Change_Triangle: autoDraw = False
+6.4513 	EXP 	Stable_Triangle: autoDraw = True
+6.4513 	EXP 	Change_Triangle: autoDraw = True
+7.8257 	DATA 	Keypress: left
+7.8343 	INFO 	Keyboard events cleared
+7.8342 	EXP 	Stable_Triangle: autoDraw = False
+7.8342 	EXP 	Change_Triangle: autoDraw = False
+7.8342 	EXP 	Stable_Triangle: autoDraw = True
+7.8342 	EXP 	Change_Triangle: autoDraw = True
+9.2263 	DATA 	Keypress: left
+9.2343 	INFO 	Keyboard events cleared
+9.2342 	EXP 	Stable_Triangle: autoDraw = False
+9.2342 	EXP 	Change_Triangle: autoDraw = False
+9.2342 	EXP 	Stable_Triangle: autoDraw = True
+9.2342 	EXP 	Change_Triangle: autoDraw = True
+10.8935 	DATA 	Keypress: right
+10.9005 	INFO 	Keyboard events cleared
+10.9004 	EXP 	Stable_Triangle: autoDraw = False
+10.9004 	EXP 	Change_Triangle: autoDraw = False
+10.9004 	EXP 	Stable_Triangle: autoDraw = True
+10.9004 	EXP 	Change_Triangle: autoDraw = True
+11.9601 	DATA 	Keypress: left
+11.9673 	INFO 	Keyboard events cleared
+11.9672 	EXP 	Stable_Triangle: autoDraw = False
+11.9672 	EXP 	Change_Triangle: autoDraw = False
+11.9672 	EXP 	Stable_Triangle: autoDraw = True
+11.9672 	EXP 	Change_Triangle: autoDraw = True
+17.3752 	DATA 	Keypress: right
+17.3852 	INFO 	Keyboard events cleared
+17.3850 	EXP 	Stable_Triangle: autoDraw = False
+17.3850 	EXP 	Change_Triangle: autoDraw = False
+17.3850 	EXP 	Stable_Triangle: autoDraw = True
+17.3850 	EXP 	Change_Triangle: autoDraw = True
+18.6279 	DATA 	Keypress: left
+18.6347 	INFO 	Keyboard events cleared
+18.6346 	EXP 	Stable_Triangle: autoDraw = False
+18.6346 	EXP 	Change_Triangle: autoDraw = False
+18.6346 	EXP 	Stable_Triangle: autoDraw = True
+18.6346 	EXP 	Change_Triangle: autoDraw = True
+20.6911 	DATA 	Keypress: left
+20.7025 	INFO 	Keyboard events cleared
+20.7024 	EXP 	Stable_Triangle: autoDraw = False
+20.7024 	EXP 	Change_Triangle: autoDraw = False
+20.7024 	EXP 	Stable_Triangle: autoDraw = True
+20.7024 	EXP 	Change_Triangle: autoDraw = True
+22.0767 	DATA 	Keypress: left
+22.0849 	INFO 	Keyboard events cleared
+22.0848 	EXP 	Stable_Triangle: autoDraw = False
+22.0848 	EXP 	Change_Triangle: autoDraw = False
+22.0848 	EXP 	Stable_Triangle: autoDraw = True
+22.0848 	EXP 	Change_Triangle: autoDraw = True
+23.5580 	DATA 	Keypress: left
+23.5693 	INFO 	Keyboard events cleared
+23.5692 	EXP 	Stable_Triangle: autoDraw = False
+23.5692 	EXP 	Change_Triangle: autoDraw = False
+23.5692 	EXP 	Stable_Triangle: autoDraw = True
+23.5692 	EXP 	Change_Triangle: autoDraw = True
+30.9778 	DATA 	Keypress: left
+30.9901 	INFO 	Keyboard events cleared
+30.9900 	EXP 	Stable_Triangle: autoDraw = False
+30.9900 	EXP 	Change_Triangle: autoDraw = False
+30.9900 	EXP 	Stable_Triangle: autoDraw = True
+30.9900 	EXP 	Change_Triangle: autoDraw = True
+33.4580 	DATA 	Keypress: left
+33.4694 	INFO 	Keyboard events cleared
+33.4692 	EXP 	Stable_Triangle: autoDraw = False
+33.4692 	EXP 	Change_Triangle: autoDraw = False
+33.4692 	EXP 	Stable_Triangle: autoDraw = True
+33.4692 	EXP 	Change_Triangle: autoDraw = True
+34.6422 	DATA 	Keypress: left
+34.6534 	INFO 	Keyboard events cleared
+34.6533 	EXP 	Stable_Triangle: autoDraw = False
+34.6533 	EXP 	Change_Triangle: autoDraw = False
+34.6533 	EXP 	Stable_Triangle: autoDraw = True
+34.6533 	EXP 	Change_Triangle: autoDraw = True
+35.5429 	DATA 	Keypress: left
+35.5529 	INFO 	Keyboard events cleared
+35.5528 	EXP 	Stable_Triangle: autoDraw = False
+35.5528 	EXP 	Change_Triangle: autoDraw = False
+35.5528 	EXP 	Stable_Triangle: autoDraw = True
+35.5528 	EXP 	Change_Triangle: autoDraw = True
+36.3616 	DATA 	Keypress: left
+36.3691 	INFO 	Keyboard events cleared
+36.3690 	EXP 	Stable_Triangle: autoDraw = False
+36.3690 	EXP 	Change_Triangle: autoDraw = False
+36.3690 	EXP 	Stable_Triangle: autoDraw = True
+36.3690 	EXP 	Change_Triangle: autoDraw = True
+37.3097 	DATA 	Keypress: left
+37.3198 	INFO 	Keyboard events cleared
+37.3197 	EXP 	Stable_Triangle: autoDraw = False
+37.3197 	EXP 	Change_Triangle: autoDraw = False
+37.3197 	EXP 	Stable_Triangle: autoDraw = True
+37.3197 	EXP 	Change_Triangle: autoDraw = True
+38.2593 	DATA 	Keypress: left
+38.2704 	INFO 	Keyboard events cleared
+38.2702 	EXP 	Stable_Triangle: autoDraw = False
+38.2702 	EXP 	Change_Triangle: autoDraw = False
+38.2702 	EXP 	Stable_Triangle: autoDraw = True
+38.2702 	EXP 	Change_Triangle: autoDraw = True
+38.9579 	DATA 	Keypress: left
+38.9704 	INFO 	Keyboard events cleared
+38.9702 	EXP 	Stable_Triangle: autoDraw = False
+38.9702 	EXP 	Change_Triangle: autoDraw = False
+38.9702 	EXP 	Stable_Triangle: autoDraw = True
+38.9702 	EXP 	Change_Triangle: autoDraw = True
+39.8944 	DATA 	Keypress: left
+39.9032 	INFO 	Keyboard events cleared
+39.9031 	EXP 	Stable_Triangle: autoDraw = False
+39.9031 	EXP 	Change_Triangle: autoDraw = False
+39.9031 	EXP 	Stable_Triangle: autoDraw = True
+39.9031 	EXP 	Change_Triangle: autoDraw = True
+40.0607 	DATA 	Keypress: left
+40.0700 	INFO 	Keyboard events cleared
+40.0698 	EXP 	Stable_Triangle: autoDraw = False
+40.0698 	EXP 	Change_Triangle: autoDraw = False
+40.0698 	EXP 	Stable_Triangle: autoDraw = True
+40.0698 	EXP 	Change_Triangle: autoDraw = True
+41.1093 	DATA 	Keypress: left
+41.1205 	INFO 	Keyboard events cleared
+41.1203 	EXP 	Stable_Triangle: autoDraw = False
+41.1203 	EXP 	Change_Triangle: autoDraw = False
+41.1203 	EXP 	Stable_Triangle: autoDraw = True
+41.1203 	EXP 	Change_Triangle: autoDraw = True
+41.8924 	DATA 	Keypress: left
+41.9039 	INFO 	Keyboard events cleared
+41.9037 	EXP 	Stable_Triangle: autoDraw = False
+41.9037 	EXP 	Change_Triangle: autoDraw = False
+41.9037 	EXP 	Stable_Triangle: autoDraw = True
+41.9037 	EXP 	Change_Triangle: autoDraw = True
+42.6295 	DATA 	Keypress: left
+42.6367 	INFO 	Keyboard events cleared
+42.6366 	EXP 	Stable_Triangle: autoDraw = False
+42.6366 	EXP 	Change_Triangle: autoDraw = False
+42.6366 	EXP 	Stable_Triangle: autoDraw = True
+42.6366 	EXP 	Change_Triangle: autoDraw = True
+43.7787 	DATA 	Keypress: left
+43.7868 	INFO 	Keyboard events cleared
+43.7867 	EXP 	Stable_Triangle: autoDraw = False
+43.7867 	EXP 	Change_Triangle: autoDraw = False
+43.7867 	EXP 	Stable_Triangle: autoDraw = True
+43.7867 	EXP 	Change_Triangle: autoDraw = True
+45.1295 	DATA 	Keypress: left
+45.1366 	INFO 	Keyboard events cleared
+45.1365 	EXP 	Stable_Triangle: autoDraw = False
+45.1365 	EXP 	Change_Triangle: autoDraw = False
+45.1365 	EXP 	Stable_Triangle: autoDraw = True
+45.1365 	EXP 	Change_Triangle: autoDraw = True
+45.9422 	DATA 	Keypress: left
+45.9542 	INFO 	Keyboard events cleared
+45.9541 	EXP 	Stable_Triangle: autoDraw = False
+45.9541 	EXP 	Change_Triangle: autoDraw = False
+45.9541 	EXP 	Stable_Triangle: autoDraw = True
+45.9541 	EXP 	Change_Triangle: autoDraw = True
+46.7265 	DATA 	Keypress: left
+46.7376 	INFO 	Keyboard events cleared
+46.7374 	EXP 	Stable_Triangle: autoDraw = False
+46.7374 	EXP 	Change_Triangle: autoDraw = False
+46.7374 	EXP 	Stable_Triangle: autoDraw = True
+46.7374 	EXP 	Change_Triangle: autoDraw = True
+47.5969 	DATA 	Keypress: left
+47.6038 	INFO 	Keyboard events cleared
+47.6037 	EXP 	Stable_Triangle: autoDraw = False
+47.6037 	EXP 	Change_Triangle: autoDraw = False
+47.6037 	EXP 	Stable_Triangle: autoDraw = True
+47.6037 	EXP 	Change_Triangle: autoDraw = True
+48.3439 	DATA 	Keypress: left
+48.3539 	INFO 	Keyboard events cleared
+48.3537 	EXP 	Stable_Triangle: autoDraw = False
+48.3537 	EXP 	Change_Triangle: autoDraw = False
+48.3537 	EXP 	Stable_Triangle: autoDraw = True
+48.3537 	EXP 	Change_Triangle: autoDraw = True
+50.2102 	DATA 	Keypress: left
+50.2210 	INFO 	Keyboard events cleared
+50.2208 	EXP 	Stable_Triangle: autoDraw = False
+50.2208 	EXP 	Change_Triangle: autoDraw = False
+50.2208 	EXP 	Stable_Triangle: autoDraw = True
+50.2208 	EXP 	Change_Triangle: autoDraw = True
+50.8264 	DATA 	Keypress: left
+50.8376 	INFO 	Keyboard events cleared
+50.8375 	EXP 	Stable_Triangle: autoDraw = False
+50.8375 	EXP 	Change_Triangle: autoDraw = False
+50.8375 	EXP 	Stable_Triangle: autoDraw = True
+50.8375 	EXP 	Change_Triangle: autoDraw = True
+51.8930 	DATA 	Keypress: left
+51.9049 	INFO 	Keyboard events cleared
+51.9048 	EXP 	Stable_Triangle: autoDraw = False
+51.9048 	EXP 	Change_Triangle: autoDraw = False
+51.9048 	EXP 	Stable_Triangle: autoDraw = True
+51.9048 	EXP 	Change_Triangle: autoDraw = True
+52.6592 	DATA 	Keypress: left
+52.6710 	INFO 	Keyboard events cleared
+52.6709 	EXP 	Stable_Triangle: autoDraw = False
+52.6709 	EXP 	Change_Triangle: autoDraw = False
+52.6709 	EXP 	Stable_Triangle: autoDraw = True
+52.6709 	EXP 	Change_Triangle: autoDraw = True
+53.2955 	DATA 	Keypress: left
+53.3036 	INFO 	Keyboard events cleared
+53.3035 	EXP 	Stable_Triangle: autoDraw = False
+53.3035 	EXP 	Change_Triangle: autoDraw = False
+53.3035 	EXP 	Stable_Triangle: autoDraw = True
+53.3035 	EXP 	Change_Triangle: autoDraw = True
+54.3264 	DATA 	Keypress: left
+54.3380 	INFO 	Keyboard events cleared
+54.3379 	EXP 	Stable_Triangle: autoDraw = False
+54.3379 	EXP 	Change_Triangle: autoDraw = False
+54.3379 	EXP 	Stable_Triangle: autoDraw = True
+54.3379 	EXP 	Change_Triangle: autoDraw = True
+55.0630 	DATA 	Keypress: left
+55.0707 	INFO 	Keyboard events cleared
+55.0706 	EXP 	Stable_Triangle: autoDraw = False
+55.0706 	EXP 	Change_Triangle: autoDraw = False
+55.0706 	EXP 	Stable_Triangle: autoDraw = True
+55.0706 	EXP 	Change_Triangle: autoDraw = True
+55.8942 	DATA 	Keypress: left
+55.9044 	INFO 	Keyboard events cleared
+55.9043 	EXP 	Stable_Triangle: autoDraw = False
+55.9043 	EXP 	Change_Triangle: autoDraw = False
+55.9043 	EXP 	Stable_Triangle: autoDraw = True
+55.9043 	EXP 	Change_Triangle: autoDraw = True
+56.5103 	DATA 	Keypress: left
+56.5216 	INFO 	Keyboard events cleared
+56.5214 	EXP 	Stable_Triangle: autoDraw = False
+56.5214 	EXP 	Change_Triangle: autoDraw = False
+56.5214 	EXP 	Stable_Triangle: autoDraw = True
+56.5214 	EXP 	Change_Triangle: autoDraw = True
+56.8439 	DATA 	Keypress: left
+56.8549 	INFO 	Keyboard events cleared
+56.8548 	EXP 	Stable_Triangle: autoDraw = False
+56.8548 	EXP 	Change_Triangle: autoDraw = False
+56.8548 	EXP 	Stable_Triangle: autoDraw = True
+56.8548 	EXP 	Change_Triangle: autoDraw = True
+57.3616 	DATA 	Keypress: left
+57.3711 	INFO 	Keyboard events cleared
+57.3709 	EXP 	Stable_Triangle: autoDraw = False
+57.3709 	EXP 	Change_Triangle: autoDraw = False
+57.3709 	EXP 	Stable_Triangle: autoDraw = True
+57.3709 	EXP 	Change_Triangle: autoDraw = True
+58.1260 	DATA 	Keypress: left
+58.1384 	INFO 	Keyboard events cleared
+58.1383 	EXP 	Stable_Triangle: autoDraw = False
+58.1383 	EXP 	Change_Triangle: autoDraw = False
+58.1383 	EXP 	Stable_Triangle: autoDraw = True
+58.1383 	EXP 	Change_Triangle: autoDraw = True
+58.9432 	DATA 	Keypress: left
+58.9550 	INFO 	Keyboard events cleared
+58.9549 	EXP 	Stable_Triangle: autoDraw = False
+58.9549 	EXP 	Change_Triangle: autoDraw = False
+58.9549 	EXP 	Stable_Triangle: autoDraw = True
+58.9549 	EXP 	Change_Triangle: autoDraw = True
+59.5270 	DATA 	Keypress: left
+59.5385 	INFO 	Keyboard events cleared
+59.5383 	EXP 	Stable_Triangle: autoDraw = False
+59.5383 	EXP 	Change_Triangle: autoDraw = False
+59.5383 	EXP 	Stable_Triangle: autoDraw = True
+59.5383 	EXP 	Change_Triangle: autoDraw = True
+60.0294 	DATA 	Keypress: left
+60.0376 	INFO 	Keyboard events cleared
+60.0375 	EXP 	Stable_Triangle: autoDraw = False
+60.0375 	EXP 	Change_Triangle: autoDraw = False
+60.0375 	EXP 	Stable_Triangle: autoDraw = True
+60.0375 	EXP 	Change_Triangle: autoDraw = True
+60.4627 	DATA 	Keypress: left
+60.4712 	INFO 	Keyboard events cleared
+60.4711 	EXP 	Stable_Triangle: autoDraw = False
+60.4711 	EXP 	Change_Triangle: autoDraw = False
+60.4711 	EXP 	Stable_Triangle: autoDraw = True
+60.4711 	EXP 	Change_Triangle: autoDraw = True
+60.8965 	DATA 	Keypress: left
+60.9044 	INFO 	Keyboard events cleared
+60.9043 	EXP 	Stable_Triangle: autoDraw = False
+60.9043 	EXP 	Change_Triangle: autoDraw = False
+60.9043 	EXP 	Stable_Triangle: autoDraw = True
+60.9043 	EXP 	Change_Triangle: autoDraw = True
+61.3099 	DATA 	Keypress: left
+61.3220 	INFO 	Keyboard events cleared
+61.3218 	EXP 	Stable_Triangle: autoDraw = False
+61.3218 	EXP 	Change_Triangle: autoDraw = False
+61.3218 	EXP 	Stable_Triangle: autoDraw = True
+61.3218 	EXP 	Change_Triangle: autoDraw = True
+61.8973 	DATA 	Keypress: left
+61.9046 	INFO 	Keyboard events cleared
+61.9045 	EXP 	Stable_Triangle: autoDraw = False
+61.9045 	EXP 	Change_Triangle: autoDraw = False
+61.9045 	EXP 	Stable_Triangle: autoDraw = True
+61.9045 	EXP 	Change_Triangle: autoDraw = True
+64.7602 	DATA 	Keypress: left
+64.7722 	INFO 	Keyboard events cleared
+64.7720 	EXP 	Stable_Triangle: autoDraw = False
+64.7720 	EXP 	Change_Triangle: autoDraw = False
+64.7720 	EXP 	Stable_Triangle: autoDraw = True
+64.7720 	EXP 	Change_Triangle: autoDraw = True
+76.7952 	DATA 	Keypress: escape
+76.9105 	EXP 	Staircase_Test: status = STOPPED
+76.9223 	EXP 	Stable_Triangle: autoDraw = False
+76.9223 	EXP 	Change_Triangle: autoDraw = False
+76.9266 	EXP 	Staircase_Test: status = STOPPED
+76.9382 	INFO 	saved data to '/Users/marie/Desktop/Psychopy Test/Staircase_Test/data/testttt_Staircase_Test_2025-10-21_16h25.25.348.csv'
+76.9410 	INFO 	saved data to /Users/marie/Desktop/Psychopy Test/Staircase_Test/data/testttt_Staircase_Test_2025-10-21_16h25.25.348.psydat
+76.9785 	DEBUG 	Saving data for Staircase_Test ExperimentHandler
+76.9828 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+76.9829 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
+76.9829 	WARNING 	Stopping key buffers but this could be dangerous ifother keyboards rely on the same.
